@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.toggleButton {
+  background-color: coral;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
